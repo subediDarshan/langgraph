@@ -5,3 +5,5 @@ langchain-google-genai
 dotenv
 
 streamlit
+
+langgraph-checkpoint-sqlite
